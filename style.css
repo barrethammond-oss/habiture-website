@@ -252,7 +252,7 @@ figcaption{margin-top:.8rem;font-size:.66rem;letter-spacing:.3em;color:var(--sto
 /* ═══════════ CONTACT ═══════════ */
 .contact{background:var(--paper);border-top:1px solid rgba(176,141,87,.2)}
 .contact-inner{text-align:center;padding-top:7rem;padding-bottom:4rem}
-.foot-mark{width:74px;margin:0 auto 2.4rem}
+.foot-mark{width:104px;margin:0 auto 2.4rem}
 .contact h2{font-size:clamp(2rem,4.4vw,3.2rem);line-height:1.15}
 .contact-link{
   display:inline-block;margin-top:2.2rem;font-size:.85rem;letter-spacing:.3em;
