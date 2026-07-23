@@ -64,7 +64,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .hero{
   min-height:100svh;display:flex;flex-direction:column;
   align-items:center;justify-content:center;position:relative;
-  text-align:center;padding:0 6vw;overflow:hidden;
+  text-align:center;padding:0 6vw 28vh;overflow:hidden;
 }
 .hero-mark{width:min(132px,28vw);margin:0 auto}
 .hero-word{
@@ -91,7 +91,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 
 /* contour bands */
 .contour-band{
-  position:absolute;left:-10%;right:-10%;bottom:-4%;height:46%;
+  position:absolute;left:-10%;right:-10%;bottom:-4%;height:38%;
   background:url('assets/contour.jpg') center/cover no-repeat;
   mix-blend-mode:multiply;opacity:.55;pointer-events:none;
   animation:drift 60s linear infinite alternate;
