@@ -220,6 +220,7 @@ figcaption{margin-top:.8rem;font-size:.66rem;letter-spacing:.3em;color:var(--sto
 .mob-grid .pair{display:grid;grid-template-columns:3fr 2fr;gap:.6rem}
 .mob-grid .pair img{height:320px}
 .mob-grid .pair img:last-child{object-position:56% 62%}
+.mob-grid .pair-oh img:last-child{object-position:38% 60%}
 .mob-grid figcaption{color:#CBBFA9;letter-spacing:.18em;line-height:1.7}
 .mob-grid figcaption strong{color:#EDE6DA;font-weight:500}
 .mob-grid figcaption span{display:block;font-size:.62rem;letter-spacing:.26em;color:#94886F}
